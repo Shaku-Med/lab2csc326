@@ -63,3 +63,11 @@
 ## OR
 
 [FACEBOOK ME](https://facebook.com/medzy.amara.2)
+
+### HOW TO USE
+
+### Type this command on your terminal.
+
+### `git clone https://github.com/Shaku-Med/lab2csc326`
+
+    git clone https://github.com/Shaku-Med/lab2csc326
